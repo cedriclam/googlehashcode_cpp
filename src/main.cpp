@@ -1,5 +1,5 @@
 #ifdef HAVE_CONFIG_H
-#include <config.hpp>
+#include <config.h>
 #endif
 
 #include "GoogleHashCode.hpp"

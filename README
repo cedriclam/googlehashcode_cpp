@@ -1,4 +1,11 @@
 Google Hash Code Cpp
 ====================
+[![Build Status](https://drone.io/github.com/cedriclam/googlehashcode_cpp/status.png)](https://drone.io/github.com/cedriclam/googlehashcode_cpp/latest)
+
+Commands:
+./autogen.sj
+./configure
+make
+
 
 
